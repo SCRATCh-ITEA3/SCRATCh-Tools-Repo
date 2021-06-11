@@ -41,8 +41,8 @@ Among the tools that comply with the SCRATCh philosophy we can find the followin
 
 
 
-[Irdeto]: https://gitlab.com/scratch-group1/scratch-tools-repo/-/blob/master/Code/Irdeto/README.md
-[Quobis]: https://gitlab.com/scratch-group1/scratch-tools-repo/-/blob/master/Code/Quobis/README.md
+[Irdeto]: /Code/Irdeto/README.md
+[Quobis]: /Code/Quobis/README.md
 [Codacy]: https://www.codacy.com/
 [Cppcheck]: http://cppcheck.sourceforge.net/
 [Jscrambler]: https://jscrambler.com/

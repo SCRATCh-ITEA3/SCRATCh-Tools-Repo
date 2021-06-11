@@ -26,8 +26,8 @@ Among the tools that comply with the SCRATCh philosophy we can find the followin
 * [XRay]
 * [Jnan]
 
-[NVISIO]:https://gitlab.com/scratch-group1/scratch-tools-repo/-/blob/master/Test/NVISIO/README.md
-[ULMA]: https://gitlab.com/scratch-group1/scratch-tools-repo/-/blob/master/Test/ULMA/README.md
+[NVISIO]:/Test/NVISIO/README.md
+[ULMA]: /Test/ULMA/README.md
 [LDRA]: https://ldra.com/
 [TSelect]: https://software.intel.com/content/www/us/en/develop/documentation/cpp-compiler-developer-guide-and-reference/top/optimization-and-programming-guide/tools/pgo-tools/test-prioritization-tool.html  
 [XRay]: https://marketplace.atlassian.com/apps/1211769/xray-test-management-for-jira

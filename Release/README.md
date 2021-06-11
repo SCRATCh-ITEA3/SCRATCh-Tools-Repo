@@ -21,7 +21,7 @@ Among the tools that comply with the SCRATCh philosophy we can find the followin
 * [mitmproxy]: SSL capable intercepting proxy
 
 
-[Otaris]: https://gitlab.com/scratch-group1/scratch-tools-repo/-/blob/master/Release/Otaris/README.md
+[Otaris]: /Release/Otaris/README.md
 [Xray]: https://jfrog.com/xray/
 [OWASP Dependency-Check]: https://owasp.org/www-project-dependency-check/
 [CVE-check-tool]: https://github.com/clearlinux/cve-check-tool
