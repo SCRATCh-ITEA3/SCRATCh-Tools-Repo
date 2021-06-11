@@ -28,16 +28,16 @@ Among the tools that comply with the SCRATCh philosophy we can find the followin
 * [Clang Static Analyzer]
 
 ### Integrated Development Environment
-* Visual Studio
-* IntelliJ IDEA
-* PyCharm
-* PhpStorm
-* Eclipse
-* WebStorm
-* Xcode,
-* Syncfusion
-* NetBeans
-* Arduino IDE
+* [Visual Studio]
+* [IntelliJ IDEA]
+* [PyCharm]
+* [PhpStorm]
+* [Eclipse]
+* [WebStorm]
+* [Xcode]
+* [Syncfusion]
+* [NetBeans]
+* [Arduino IDE]
 
 
 
@@ -54,3 +54,14 @@ Among the tools that comply with the SCRATCh philosophy we can find the followin
 [AppScan]: https://www.ibm.com/uk-en/products/qradar-siem
 [SonarQube]: https://www.sonarqube.org/
 [Clang Static Analyzer]: https://clang-analyzer.llvm.org/
+[Visual Studio]: https://visualstudio.microsoft.com/
+[IntelliJ IDEA]: https://www.jetbrains.com/idea/
+[PyCharm]: https://www.jetbrains.com/pycharm/
+[PhpStorm]: https://www.jetbrains.com/phpstorm/
+[Eclipse]: https://www.eclipse.org/ide/
+[WebStorm]: https://www.jetbrains.com/webstorm/
+[Xcode]: https://apps.apple.com/app/xcode/id497799835?mt=12
+[Syncfusion]: https://www.syncfusion.com/
+[NetBeans]: https://netbeans.apache.org/
+[Arduino IDE]: https://www.arduino.cc/en/software
+
