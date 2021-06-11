@@ -17,46 +17,46 @@ SCRATCh proposes an integrative approach to IoT, security and DevOps practices t
 This repository contains those DevOps IoT tools that have been identified as useful, whether they are commercial or open source tools. The tools have been classified according to the stage of the devops life cycle for which they are likely to be used: 
 
 
-[![Plan](./images/plan.png)](https://gitlab.com/scratch-group1/scratch-tools-repo/-/blob/master/Plan/)
+[![Plan](./images/plan.png)](/Plan/)
 
 
 
 
-[![Code](./images/code.png)](https://gitlab.com/scratch-group1/scratch-tools-repo/-/blob/master/Code/)
+[![Code](./images/code.png)](/Code/)
 
 
 
 
-[![Build](./images/build.png)](https://gitlab.com/scratch-group1/scratch-tools-repo/-/blob/master/Build/)
+[![Build](./images/build.png)](/Build/)
 
 
 
-[![Test](./images/test.png)](https://gitlab.com/scratch-group1/scratch-tools-repo/-/blob/master/Test/)
-
-
-
-
-
-
-[![Release](./images/release.png)](https://gitlab.com/scratch-group1/scratch-tools-repo/-/blob/master/Release/)
+[![Test](./images/test.png)](/Test/)
 
 
 
 
 
-[![Deploy](./images/deploy.png)](https://gitlab.com/scratch-group1/scratch-tools-repo/-/blob/master/Deploy/)
+
+[![Release](./images/release.png)](/Release/)
 
 
 
 
 
-[![Operate](./images/operate.png)](https://gitlab.com/scratch-group1/scratch-tools-repo/-/blob/master/Operate/)
+[![Deploy](./images/deploy.png)](/Deploy/)
 
 
 
 
 
-[![Monitor](./images/monitor.png)](https://gitlab.com/scratch-group1/scratch-tools-repo/-/blob/master/Monitor/)
+[![Operate](./images/operate.png)](/Operate/)
+
+
+
+
+
+[![Monitor](./images/monitor.png)](/Monitor/)
 
 
 
