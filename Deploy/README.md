@@ -19,7 +19,17 @@ Among the tools that comply with the SCRATCh philosophy we can find the followin
 
 ##  **Commercial/Open source Tools**
 
+* [Digital.ai Deploy deployment automation]
+* [GoCD]
+* [AWS CodeDeploy]
+
 
 [NXP]: /Deploy/NXP/README.md
 [Irdeto]: /Deploy/Irdeto/README.md
 [Almende]: /Deploy/Almende/README.md
+[Digital.ai Deploy deployment automation]: https://digital.ai/deploy
+[GoCD]: https://www.gocd.org/
+[AWS CodeDeploy]: https://aws.amazon.com/es/codedeploy/
+
+
+
