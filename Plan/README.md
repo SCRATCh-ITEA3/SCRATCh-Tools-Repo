@@ -13,7 +13,7 @@ Among the tools that comply with the SCRATCh philosophy we can find the followin
 
 ## **Commercial/Open source Tools**:
 
-### Requirements Management Toos
+### Requirements Management Tools
 * [DOORS]: Tool to manage, trace and track and validate requirements. Requirements management in a centralized location, Traceability that links requirements to design items
 * [Polarion]: ALM Web based tool to manage requirements across the entire project lifecycle
 * [Visure]: Tool to manage, trace and track and validate requirements, ALM partner for companies of all sizes across safety-critical and business-critical industries.
