@@ -17,10 +17,10 @@ Among the tools that comply with the SCRATCh philosophy we can find the followin
 ## **Commercial/Open source Tools**:
 
 ### Threat Monitoring Tools
-* [Darktrace]: Threat monitoring tool
-* [FireEye]: Threat monitoring tool   
-* [Vectra AI]: Threat monitoring tool
-* [QRadar]: Threat monitoring tool  
+* [Darktrace]
+* [FireEye]
+* [Vectra AI]
+* [QRadar]
 
 ### Incident Reporting Tools
 * [Nagios]
