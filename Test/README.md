@@ -19,7 +19,11 @@ Among the tools that comply with the SCRATCh philosophy we can find the followin
 ## **Commercial/Open source Tools**:
 
 ### Verification Testing Tools
-* [LDRA]: Automating Software Verification, Requirements Traceability and Standards Compliance
+* [LDRA]
+* [Cucumber]
+* [Selenium]
+* [JUnit]
+* [JMeter]
 
 ### Unit Test Prioritization Tools
 * [TSelect] 
@@ -32,3 +36,7 @@ Among the tools that comply with the SCRATCh philosophy we can find the followin
 [TSelect]: https://software.intel.com/content/www/us/en/develop/documentation/cpp-compiler-developer-guide-and-reference/top/optimization-and-programming-guide/tools/pgo-tools/test-prioritization-tool.html  
 [XRay]: https://marketplace.atlassian.com/apps/1211769/xray-test-management-for-jira
 [Jnan]: https://github.com/Nandita-93/Test-Prioritization-Tool
+[Cucumber]: https://cucumber.io/
+[Selenium]: https://www.selenium.dev/
+[JUnit]: https://junit.org/
+[JMeter]: https://jmeter.apache.org/
