@@ -19,9 +19,7 @@ Among the tools that comply with the SCRATCh philosophy we can find the followin
 
 ### Secure Storage Tools
 * [EncFS]
-
 * [CrossCrypt]
-
 * [VeraCrypt]
 
 ### Runtime Application Self Protection Tools
