@@ -21,7 +21,7 @@ Among the tools that comply with the SCRATCh philosophy we can find the followin
 ### Threat Modelling Tools
 * [Microsoft Threat Modelling Tool]
 * [OWASP Threat Dragon]
-* [IriusRisk] Threat Modelling Tool
+* [IriusRisk] 
 * [ArchSec]
 
 [Microsoft Threat Modelling Tool]: https://www.microsoft.com/en-us/securityengineering/sdl/threatmodeling
