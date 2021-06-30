@@ -29,7 +29,7 @@ Among the tools that comply with the SCRATCh philosophy we can find the followin
 [Almende]: /Deploy/Almende/README.md
 [Digital.ai Deploy deployment automation]: https://digital.ai/deploy
 [GoCD]: https://www.gocd.org/
-[AWS CodeDeploy]: https://aws.amazon.com/es/codedeploy/
+[AWS CodeDeploy]: https://aws.amazon.com/codedeploy/
 
 
 
