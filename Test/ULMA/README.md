@@ -18,8 +18,15 @@ In order to abstract the test case prioritization from the final solution, it is
 #### Platform dependent layer
 The platform-dependent layer, unlike the previous layer, relies completely on the final solution and its purpose. It is therefore necessary to define which is the main objective as well as the tools to be used. Since the main goal is the test case selection and prioritization to optimize testing of embedded systems developed in C/C++. The tool that will be used as the executor's base will be Unity and its ecosystem tools.
 
+### SPTool Requirements
+
+* Test Suite defined in JSON format
+* JUNIT XML Based Test Case Results
+* Test Runner Generator for the target platform from prioritized Test Cases in JSON format
+* Test Executor
+
 ## Contact
-For more information about the tool, please contact: <alarrucea@ulmaembedded.com>
+For more information about the tool, its use or licensing, please contact: <alarrucea@ulmaembedded.com>
 
 
 
