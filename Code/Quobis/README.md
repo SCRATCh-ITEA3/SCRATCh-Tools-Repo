@@ -21,3 +21,6 @@ Many other actions can be smoothly added to the  or even connected to this actio
 * Once you get the acount, and in order to test to use the action in any existing repository you can import the action directly from the Github Marketplace: 
 [[owasp-dependency-track-check action in the Github marketplace]](https://github.com/marketplace/actions/owasp-dependency-track-check)
 
+# Example of use
+As an exercise of doogfooding, we are using the action in our own repository to check the vulnerabilities after each new code merge: 
+[[XMPP-MQTT Gateway]](https://github.com/Quobis/xmpp-mqtt-gateway/actions)
