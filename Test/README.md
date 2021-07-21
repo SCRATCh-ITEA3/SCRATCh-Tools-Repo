@@ -31,7 +31,7 @@ Among the tools that comply with the SCRATCh philosophy we can find the followin
 * [XRay]
 * [Jnan]
 
-[Otaris]: /Test/Otaris/README.md
+[Otaris]: /Test/OTARIS/README.md
 [NVISIO]:/Test/NVISIO/README.md
 [ULMA]: /Test/ULMA/README.md
 [LDRA]: https://ldra.com/
