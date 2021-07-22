@@ -28,7 +28,7 @@ This repository contains those DevOps IoT tools that have been identified as use
 
 
 
-[![Control](./images/c3_devops.png)](/C3_control/)
+[![Control](./images/c3_devops.png)](/C3_Control/)
 
 
 
