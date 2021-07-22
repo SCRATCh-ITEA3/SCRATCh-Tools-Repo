@@ -18,17 +18,17 @@ SCRATCh proposes an integrative approach to IoT, security and DevOps practices t
 This repository contains those DevOps IoT tools that have been identified as useful, whether they are commercial or open source tools. The tools have been classified according to the stage of the devops life cycle for which they are likely to be used. You can click on one of the phases below to learn more about the phase and the associated tools. 
 
 
-[![Constrain](./images/c1_devops.png)](/Constrain/)
+[![Constrain](./images/c1_devops.png)](/C1_Constrain/)
 
 
 
 
-[![Compy](./images/c2_devops.png)](/Comply/)
+[![Compy](./images/c2_devops.png)](/C2_Comply/)
 
 
 
 
-[![Control](./images/c3_devops.png)](/control/)
+[![Control](./images/c3_devops.png)](/C3_control/)
 
 
 
