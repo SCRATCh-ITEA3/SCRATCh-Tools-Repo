@@ -1,6 +1,6 @@
 #  <img src="./images/dev.png" alt ='DevOps Cicle'  width="5%" > SCRATCh -SECURE AND AGILE CONNECTED THINGS- DevOps - Tools 
 
-![DevOps Cicle](./images/dev.png)
+![DevOps Cicle](./images/devops_3c.png)
 
 ## About SCRATCh 
 Development and operation of secure, large-scale IoT systems is hard. While there exist technological platforms aimed at providing the necessary building blocks to integrate devices and backbone logic, they do not address the major concerns of today’s software-intensive systems: security, agility and a need for continuous deployment.
@@ -18,46 +18,18 @@ SCRATCh proposes an integrative approach to IoT, security and DevOps practices t
 This repository contains those DevOps IoT tools that have been identified as useful, whether they are commercial or open source tools. The tools have been classified according to the stage of the devops life cycle for which they are likely to be used. You can click on one of the phases below to learn more about the phase and the associated tools. 
 
 
-[![Plan](./images/plan.png)](/Plan/)
+[![Constrain](./images/c1_devops.png)](/Constrain/)
 
 
 
 
-[![Code](./images/code.png)](/Code/)
+[![Compy](./images/c2_devops.png)](/Comply/)
 
 
 
 
-[![Build](./images/build.png)](/Build/)
+[![Control](./images/c3_devops.png)](/control/)
 
-
-
-[![Test](./images/test.png)](/Test/)
-
-
-
-
-
-
-[![Release](./images/release.png)](/Release/)
-
-
-
-
-
-[![Deploy](./images/deploy.png)](/Deploy/)
-
-
-
-
-
-[![Operate](./images/operate.png)](/Operate/)
-
-
-
-
-
-[![Monitor](./images/monitor.png)](/Monitor/)
 
 
 
