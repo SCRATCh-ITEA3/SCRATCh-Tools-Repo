@@ -11,7 +11,7 @@ The full process is depicted in the image below.
 ![image](https://user-images.githubusercontent.com/4015457/124102330-8d767b80-da60-11eb-8234-9c9b04458e3a.png)
 
 In order to be able to include the vulnerability check in the CI/CD cycle, **Quobis developed a Github action which generates the SBOM from any existing project and update it to any OWASP Dependency Track instance whose REST API is accessible through Internet**. The Github action can be used directly from the Github repository, without requiring any additional service. When the action is triggered by developer actions, for example a merge in the master branch, then Github instantiates a container with the software needed to generate the SBOM and upload it to the server.  
-Many other actions can be smoothly added to the  or even connected to this action. The project must follow the standard structure and only Python, Golang and Nodejs projects are supported so far.
+Many other actions can be smoothly added to the  or even connected to this action. The project must follow the standard structure and only Python, Golang, Java (Maven), Ruby and Nodejs projects are supported so far. More languages will be supported soon. 
 
 # How to use OWASP Dependency Track
 
@@ -24,3 +24,4 @@ Many other actions can be smoothly added to the  or even connected to this actio
 # Example of use
 As an exercise of doogfooding, we are using the action in our own repository to check the vulnerabilities after each new code merge: 
 [[XMPP-MQTT Gateway]](https://github.com/Quobis/xmpp-mqtt-gateway/actions)
+Please note that you have some minutes of action execution for free in Github everymonth, if you are planning to use these feature in your workflow you may need to check Github conditions to make sure you will not run out of action execution minutes.
