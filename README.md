@@ -1,5 +1,11 @@
 #  <img src="./images/dev.png" alt ='DevOps Cicle'  width="5%" > SCRATCh -SECURE AND AGILE CONNECTED THINGS- DevOps - Tools 
 
+<map name="3cimage-map">
+    <area target="_self" alt="Constrain" title="/C1_Constrain/" href="/C1_Constrain/" coords="101,199,75,266,16,251,8,59,47,18,149,2,269,19,324,41,336,78,340,98,343,108,274,139,267,181,135,195" shape="poly">
+    <area target="_self" alt="Comply" title="Comply" href="./C2_Comply" coords="99,233,241,238,296,175,358,111,408,50,446,21,536,2,639,41,597,85,462,86,402,151,356,206,317,245,291,274,231,316,103,303,59,283" shape="poly">
+    <area target="_self" alt="Control" title="Control" href="/C3_Control" coords="655,58,693,145,675,240,595,307,518,315,426,289,398,265,407,226,456,229,445,141" shape="poly">
+</map>
+
 <img src="./images/3c_devops.png" usemap="#3cimage-map">
 
 
@@ -38,8 +44,3 @@ w
 
 
 
-<map name="3cimage-map">
-    <area target="_self" alt="Constrain" title="/C1_Constrain/" href="/C1_Constrain/" coords="101,199,75,266,16,251,8,59,47,18,149,2,269,19,324,41,336,78,340,98,343,108,274,139,267,181,135,195" shape="poly">
-    <area target="_self" alt="Comply" title="Comply" href="./C2_Comply" coords="99,233,241,238,296,175,358,111,408,50,446,21,536,2,639,41,597,85,462,86,402,151,356,206,317,245,291,274,231,316,103,303,59,283" shape="poly">
-    <area target="_self" alt="Control" title="Control" href="/C3_Control" coords="655,58,693,145,675,240,595,307,518,315,426,289,398,265,407,226,456,229,445,141" shape="poly">
-</map>
