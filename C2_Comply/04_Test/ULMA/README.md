@@ -1,4 +1,4 @@
-# <img src="../../images/test.png" alt ='test'  width="10%" >  SCRATCh - DevOps - Test Tools - Test Prioritization Tool  
+# <img src="../../../images/test.png" alt ='test'  width="10%" >  SCRATCh - DevOps - Test Tools - Test Prioritization Tool  
 
 ## SPTool 
 The SPTool is a library that selects and prioritize test cases, to reduce testing time, increase fault detection rate and improve the testing process efficiency while software quality level is maintained. 
