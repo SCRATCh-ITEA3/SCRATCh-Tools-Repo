@@ -20,6 +20,6 @@ Among the tools that comply with the SCRATCh philosophy we can find the followin
 
 [Code Protection]
 
-[Denuvo Anti-Tamper]: /Build/Irdeto/README.md
+[Denuvo Anti-Tamper]: /Irdeto/README.md
 [Application Protection]: https://digital.ai/application-protection
 [Code Protection]: https://www.intertrust.com/products/application-protection/
