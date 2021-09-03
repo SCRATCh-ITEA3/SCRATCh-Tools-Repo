@@ -1,4 +1,4 @@
-# <img src="../../images/operate.png" alt ='operate'  width="10%" > SCRATCh - DevOps - Operate Tools - Deception Toolkit
+# <img src="../../../images/operate.png" alt ='operate'  width="10%" > SCRATCh - DevOps - Operate Tools - Deception Toolkit
 
 
 
