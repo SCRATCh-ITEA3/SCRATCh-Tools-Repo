@@ -1,4 +1,4 @@
-# <img src="../images/release.png" alt ='release'  width="10%" > SCRATCh - DevOps - Release Tools
+# <img src="../../images/release.png" alt ='release'  width="10%" > SCRATCh - DevOps - Release Tools
 
 Description of the importance of the release...
 
