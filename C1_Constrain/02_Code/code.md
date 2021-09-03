@@ -1,4 +1,4 @@
-# <img src="../images/code.png" alt ='code'  width="10%" > SCRATCh - DevOps - Code Tools
+# <img src="../../images/code.png" alt ='code'  width="10%" > SCRATCh - DevOps - Code Tools
 
 Description of the importance of the code...
 
