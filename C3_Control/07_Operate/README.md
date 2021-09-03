@@ -31,8 +31,8 @@ Among the tools that comply with the SCRATCh philosophy we can find the followin
 [EncFS]: https://encfsmp.sourceforge.io/
 [CrossCrypt]: https://www.openhub.net/p/9550
 [VeraCrypt]: https://www.veracrypt.fr/en/Home.html
-[HIB]: /Operate/HIB/README.md 
-[DFKI]: /Operate/DFKI/README.md 
+[HIB]: ./HIB/README.md 
+[DFKI]: ./DFKI/README.md 
 [Any VPN Client]: https://www.cisco.com/c/es_es/products/security/anyconnect-secure-mobility-client/index.html
 [Imperva Real-time Application Self Protection]:  https://www.imperva.com/products/runtime-application-self-protection-rasp/
 [sqreeen]: https://www.sqreen.com/
