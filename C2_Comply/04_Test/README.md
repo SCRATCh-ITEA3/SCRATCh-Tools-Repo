@@ -1,4 +1,4 @@
-# <img src="../images/test.png" alt ='test'  width="10%" > SCRATCh - DevOps - Test Tools
+# <img src="../../images/test.png" alt ='test'  width="10%" > SCRATCh - DevOps - Test Tools
 
 The testing phase is very important as it provides quick feedback to ensure that the developed software meets the security,functional and safety requirements.
 
