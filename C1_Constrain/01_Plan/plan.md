@@ -1,4 +1,4 @@
-# <img src="../images/plan.png" alt ='plan'  width="10%" > SCRATCh - DevOps - Plan Tools
+# <img src="../../images/plan.png" alt ='plan'  width="10%" > SCRATCh - DevOps - Plan Tools
 
 Description of the importacne of the planing phase.
 
