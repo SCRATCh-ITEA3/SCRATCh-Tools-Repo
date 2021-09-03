@@ -1,4 +1,4 @@
-# <img src="../../images/test.png" alt ='test'  width="10%" > SCRATCh - DevOps - Release Tools - FirmwareCheck
+# <img src="../../../images/test.png" alt ='test'  width="10%" > SCRATCh - DevOps - Release Tools - FirmwareCheck
 
 # FirmwareCheck
 
