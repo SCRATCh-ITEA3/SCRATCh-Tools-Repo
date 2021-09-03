@@ -1,4 +1,4 @@
-# <img src="../../images/deploy.png" alt ='deploy'  width="10%" > SCRATCh - DevOps - Deploy Tools - Crownstone Update Framework
+# <img src="../../../images/deploy.png" alt ='deploy'  width="10%" > SCRATCh - DevOps - Deploy Tools - Crownstone Update Framework
 
 
 
