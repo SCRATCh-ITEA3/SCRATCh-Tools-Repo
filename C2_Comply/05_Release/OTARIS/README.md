@@ -1,4 +1,4 @@
-# <img src="../../images/release.png" alt ='release'  width="10%" > SCRATCh - DevOps - Release Tools - OTAlyzer
+# <img src="../../../images/release.png" alt ='release'  width="10%" > SCRATCh - DevOps - Release Tools - OTAlyzer
 
 # OTAlyzer
 
