@@ -41,8 +41,8 @@ Among the tools that comply with the SCRATCh philosophy we can find the followin
 
 
 
-[Irdeto]: /Irdeto/README.md
-[Quobis]: /Quobis/README.md
+[Irdeto]: ./Irdeto/README.md
+[Quobis]: ./Quobis/README.md
 [Codacy]: https://www.codacy.com/
 [Cppcheck]: http://cppcheck.sourceforge.net/
 [Jscrambler]: https://jscrambler.com/
