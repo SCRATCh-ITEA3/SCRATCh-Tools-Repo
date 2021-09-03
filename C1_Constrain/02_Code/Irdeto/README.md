@@ -1,4 +1,4 @@
-# <img src="../../images/code.png" alt ='code'  width="10%" > SCRATCh - DevOps - Code Tools - Trusted Software
+# <img src="../../../images/code.png" alt ='code'  width="10%" > SCRATCh - DevOps - Code Tools - Trusted Software
 
  [Trusted Software]  Web API (service) that uses ML to identify security sensative code and automatically applies code obfuscation to protect the code,
 
