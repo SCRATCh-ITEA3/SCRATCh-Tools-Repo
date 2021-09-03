@@ -1,4 +1,4 @@
-# <img src="../images/operate.png" alt ='operate'  width="10%" > SCRATCh - DevOps - Operate Tools
+# <img src="../../images/operate.png" alt ='operate'  width="10%" > SCRATCh - DevOps - Operate Tools
 
 
 Description of the importance of the operate...
