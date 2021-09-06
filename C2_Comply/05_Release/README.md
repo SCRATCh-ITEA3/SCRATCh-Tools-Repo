@@ -1,7 +1,5 @@
 # <img src="../../images/release.png" alt ='release'  width="10%" > SCRATCh - DevOps - Release Tools
 
-Description of the importance of the release...
-
 
 Among the tools that comply with the SCRATCh philosophy we can find the following:
 
