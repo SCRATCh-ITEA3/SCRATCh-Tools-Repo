@@ -30,7 +30,7 @@ Among the tools that comply with the SCRATCh philosophy we can find the followin
 * [LibreNMS]
 * [Graylog]
 
-[DFKI]: /Monitor/DFKI/README.md 
+[DFKI]: ./DFKI/README.md 
 [datadog]: https://www.datadoghq.com/
 [Famatech]: https://www.radmin.es/
 [Advanced IP Scanner]: https://www.advanced-ip-scanner.com/es/
