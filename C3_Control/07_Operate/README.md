@@ -1,8 +1,6 @@
 # <img src="../../images/operate.png" alt ='operate'  width="10%" > SCRATCh - DevOps - Operate Tools
 
 
-Description of the importance of the operate...
-
 
 Among the tools that comply with the SCRATCh philosophy we can find the following:
 
