@@ -1,9 +1,6 @@
 # <img src="../../images/monitor.png" alt ='monitor'  width="10%" > SCRATCh - DevOps - Monitor Tools
 
 
-Description of the importance of the monitoring...
-
-
 Among the tools that comply with the SCRATCh philosophy we can find the following:
 
 ## **SCRATCh partner Tools**:	
