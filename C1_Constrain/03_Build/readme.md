@@ -1,10 +1,6 @@
 # <img src="../../images/build.png" alt ='build'  width="10%" > SCRATCh - DevOps - Build Tools
 
 
-
-Description of the importance of the build...
-
-
 Among the tools that comply with the SCRATCh philosophy we can find the following:
 
 
