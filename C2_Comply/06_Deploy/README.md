@@ -1,6 +1,5 @@
 # <img src="../../images/deploy.png" alt ='deploy'  width="10%" > SCRATCh - DevOps - Deploy Tools
 
-Description of the importance of the deploy...
 
 Among the tools that comply with the SCRATCh philosophy we can find the following:
 
