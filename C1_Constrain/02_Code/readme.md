@@ -1,8 +1,5 @@
 # <img src="../../images/code.png" alt ='code'  width="10%" > SCRATCh - DevOps - Code Tools
 
-Description of the importance of the code...
-
-
 Among the tools that comply with the SCRATCh philosophy we can find the following:
 
 ## **SCRATCh partner Tools**:	
