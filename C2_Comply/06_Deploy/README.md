@@ -13,7 +13,7 @@ Among the tools that comply with the SCRATCh philosophy we can find the followin
 
 ### Secure Deployment Tools
 
-* Crownstone Update Framework [Almende]
+* Firmware Update System [Almende, DN, AnyWi]
 
 
 ##  **Commercial/Open source Tools**
@@ -25,7 +25,7 @@ Among the tools that comply with the SCRATCh philosophy we can find the followin
 
 [NXP]: ./NXP/README.md
 [Irdeto]: ./Irdeto/README.md
-[Almende]: ./Almende/README.md
+[Almende, DN, AnyWi]: ./Almende/README.md
 [Digital.ai Deploy deployment automation]: https://digital.ai/deploy
 [GoCD]: https://www.gocd.org/
 [AWS CodeDeploy]: https://aws.amazon.com/codedeploy/
