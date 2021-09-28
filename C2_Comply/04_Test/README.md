@@ -8,12 +8,11 @@ Among the tools that comply with the SCRATCh philosophy we can find the followin
 ## **SCRATCh partner Tools**:
 
 ### Verification Testing Tools
-* IoT security verification standard [NVISIO]
-* IoT testing guide [NVISIO]
-* Tools to test/read out the configuration of an IoT application [NVISIO]
+* IoT security verification standard [OWASP-ISVS (NVISO)]
+* Tools to test/read out the configuration of an IoT application [NVISO]
 * FirmwareCheck tool to automate dynamic analyses of IoT-firmwares [OTARIS]
 
-### Unit Test Prioritization Tools	
+### Unit Test Prioritization Tools
 * SPTool [ULMA]
 
 
@@ -27,12 +26,13 @@ Among the tools that comply with the SCRATCh philosophy we can find the followin
 * [JMeter]
 
 ### Unit Test Prioritization Tools
-* [TSelect] 
+* [TSelect]
 * [XRay]
 * [Jnan]
 
 [Otaris]: ./OTARIS/README.md
-[NVISIO]:./NVISIO/README.md
+[OWASP-ISVS (NVISO)]:./NVISO/README-ISVS.md
+[Testing tools (NVISO)]:./NVISO/README-Tools.md
 [ULMA]: ./ULMA/README.md
 [LDRA]: https://ldra.com/
 [TSelect]: https://software.intel.com/content/www/us/en/develop/documentation/cpp-compiler-developer-guide-and-reference/top/optimization-and-programming-guide/tools/pgo-tools/test-prioritization-tool.html  
