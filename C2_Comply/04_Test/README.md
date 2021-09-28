@@ -9,7 +9,7 @@ Among the tools that comply with the SCRATCh philosophy we can find the followin
 
 ### Verification Testing Tools
 * IoT security verification standard [OWASP-ISVS (NVISO)]
-* Tools to test/read out the configuration of an IoT application [NVISO]
+* Tools to test/read out the configuration of an IoT application [Testing tools (NVISO)]
 * FirmwareCheck tool to automate dynamic analyses of IoT-firmwares [OTARIS]
 
 ### Unit Test Prioritization Tools
