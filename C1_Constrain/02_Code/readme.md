@@ -6,6 +6,7 @@ Among the tools that comply with the SCRATCh philosophy we can find the followin
 * OWASP Dependency Track [Quobis]
 * Trusted Software [Irdeto]
 * Cloakware Software Protection [Irdeto]
+* MCUXPresso IDE [NXP]
 
 ## **Commercial/Open source Tools**:
  
@@ -40,6 +41,7 @@ Among the tools that comply with the SCRATCh philosophy we can find the followin
 
 [Irdeto]: ./Irdeto/README.md
 [Quobis]: ./Quobis/README.md
+[NXP]: https://mcuxpresso.nxp.com/
 [Codacy]: https://www.codacy.com/
 [Cppcheck]: http://cppcheck.sourceforge.net/
 [Jscrambler]: https://jscrambler.com/
@@ -61,4 +63,3 @@ Among the tools that comply with the SCRATCh philosophy we can find the followin
 [Syncfusion]: https://www.syncfusion.com/
 [NetBeans]: https://netbeans.apache.org/
 [Arduino IDE]: https://www.arduino.cc/en/software
-
