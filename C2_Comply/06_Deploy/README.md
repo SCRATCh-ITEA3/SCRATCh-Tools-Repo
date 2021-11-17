@@ -10,6 +10,7 @@ Among the tools that comply with the SCRATCh philosophy we can find the followin
 
 * Trust Provisioning Services [NXP]
 * Keys & Credentials Service [Irdeto]
+* Key provisioning tools NXP
 
 ### Secure Deployment Tools
 
