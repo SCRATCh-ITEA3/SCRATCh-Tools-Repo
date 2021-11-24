@@ -48,9 +48,20 @@ Used tools / libraries:
 * [NXP MCUXpresso IDE]
 
 
-# Trust Provisioning Services description
+# Edgeverse
+Both EdgeLock® 2GO and EdgeLock® SE050 being a part of Edgeverse platform, offer primary edge computing capabilities. This software is built on the foundation of scalability, energy efficiency, security, machine learning and connectivity. 
 
-[Trust Provisioning Services] description....
+## EdgeLock® 2GO
+Secure and Flexible IoT service platform designed for easy, secure deployment and management of devices and services. Cost optimization can be achieved by choosing the options that are right for you using this flexible IoT device platform 
+
+https://www.nxp.com/products/security-and-authentication/secure-service-2go-platform/edgelock-2go:EDGELOCK-2GO
+
+## EdgeLock® SE050
+It is a plug and secure element that offers enhanced common criteria EAL 6+ based security, for unprecedencted protection against the latest attack scenerios. This ready to use secure element for IoT devices delivers end to end security (edge to cloud) without the need of security code. 
+
+https://www.nxp.com/products/security-and-authentication/authentication/edgelock-se050-plug-trust-secure-element-family-enhanced-iot-security-with-maximum-flexibility:SE050
+
+
 
 
 
