@@ -25,3 +25,7 @@ Many other actions can be smoothly added to the  or even connected to this actio
 As an exercise of doogfooding, we are using the action in our own repository to check the vulnerabilities after each new code merge: 
 [[XMPP-MQTT Gateway]](https://github.com/Quobis/xmpp-mqtt-gateway/actions)
 Please note that you have some minutes of action execution for free in Github everymonth, if you are planning to use these feature in your workflow you may need to check Github conditions to make sure you will not run out of action execution minutes.
+
+Once you get the action properly configured, when the defined action si configured, you should see a build process like the one shown in the image below, which includes the generation of the BoM and also the upload process to the OWASP Dependency Track server:
+![image](https://user-images.githubusercontent.com/4015457/143873986-890908eb-5087-4f7c-9d17-4d414be81989.png)
+
