@@ -28,19 +28,6 @@ This repository contains those DevOps IoT tools that have been identified as use
 
 
 
-[![Constrain](./images/c1_devops.png)](/C1_Constrain/)
-
-
-
-
-[![Compy](./images/c2_devops.png)](/C2_Comply/)
-
-
-
-
-[![Control](./images/c3_devops.png)](/C3_Control/)
-
-
 
 
 
