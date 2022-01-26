@@ -6,7 +6,7 @@ Among the tools that comply with the SCRATCh philosophy we can find the followin
 
 ## **SCRATCh partner Tools**:
 * [DCMS data set tool]: The Code of Practice for Consumer IoT Security contains 13 highlevel requirements that can be compared with the OWASP top ten for IoT security. The interessting part of this dataset is the mapping of these 13 highlevel requirements to a wide variaty of international standards and guidelines. There are over a 1000 records in this mapping.
-* [Requirements Tool]: a Tool that contains acces to a snapshot of the available standards and security recomendations
+* [KnowledgeBase]: a Tool that contains acces to a snapshot of the available standards and security recomendations
 
 
 ## **Commercial/Open source Tools**:
