@@ -31,4 +31,4 @@ Among the tools that comply with the SCRATCh philosophy we can find the followin
 [ArchSec]: https://archsec.informatik.uni-bremen.de
 [IriusRisk]: https://www.iriusrisk.com/
 [DCMS data set tool]:https://github.com/SCRATCh-ITEA3/knowledge-base
- [Requirements Tool]:https://github.com/SCRATCh-ITEA3/KB
+ [KnowledgeBase]:https://github.com/SCRATCh-ITEA3/KB
