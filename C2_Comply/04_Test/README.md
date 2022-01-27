@@ -14,7 +14,7 @@ Among the tools that comply with the SCRATCh philosophy we can find the followin
 * [OTAlyzer](OTAlyzer) - analyze network data during unit tests to detect leaks of confidential data in network traffic*
 
 ### Unit Test Prioritization Tools
-* SPTool [SPTool] (ULMA)
+* [SPTool](SPTool) (ULMA)
 
 ## **Commercial/Open source Tools**:
 
