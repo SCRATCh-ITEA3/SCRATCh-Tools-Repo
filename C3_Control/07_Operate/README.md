@@ -6,9 +6,8 @@ Among the tools that comply with the SCRATCh philosophy we can find the followin
 
 
 ## **SCRATCh partner Tools**:	
-* Deception Toolkits [DFKI]
-* Secure storage [HIB]
-
+* [Deception Toolkit] (DFKI)
+* [Secure Storage] (HIB)
 
 ## **Commercial/Open source Tools**:
 

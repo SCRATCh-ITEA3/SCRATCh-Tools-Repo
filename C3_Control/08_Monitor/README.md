@@ -7,7 +7,7 @@ Among the tools that comply with the SCRATCh philosophy we can find the followin
 
 
 ### Threat Monitoring Tools
-* Anomaly Detection Toolkit [DFKI]
+* [Anomaly Detection Toolkit] (DFKI)
 
 
 

@@ -8,13 +8,13 @@ Among the tools that comply with the SCRATCh philosophy we can find the followin
 ## **SCRATCh partner Tools**:
 
 ### Verification Testing Tools
-* IoT security verification standard [OWASP-ISVS (NVISO)]
-* Tools to test/read out the configuration of an IoT application [Testing tools (NVISO)]
-* FirmwareCheck tool to automate dynamic analyses of IoT-firmwares [OTARIS]
+* IoT security verification standard [OWASP-ISVS] (NVISO)
+* [IOXY] - Open-Source MQTT interception proxy (NVISO)
+* [FirmwareCheck] tool to automate dynamic analyses of IoT-firmwares (OTARIS)
+* [OTAlyzer] - analyze network data during unit tests to detect leaks of confidential data in network traffic*
 
 ### Unit Test Prioritization Tools
-* SPTool [ULMA]
-
+* SPTool [SPTool] (ULMA)
 
 ## **Commercial/Open source Tools**:
 

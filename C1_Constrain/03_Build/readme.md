@@ -5,7 +5,7 @@ Among the tools that comply with the SCRATCh philosophy we can find the followin
 
 
 ## **SCRATCh partner Tools**:	
-[Denuvo Anti-Tamper]
+[Denuvo Anti-Tamper] (Irdeto)
 
 
 

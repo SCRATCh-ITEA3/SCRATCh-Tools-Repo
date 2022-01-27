@@ -7,7 +7,7 @@ Among the tools that comply with the SCRATCh philosophy we can find the followin
 ## **SCRATCh partner Tools**:	
 
 ### Dataflow Protection Tools
-* OTAlyzer [Otaris]
+* [OTAlyzer] (Otaris) - Analyze network traffic for potential leaks of sensitive data in network traffic
 
 ## **Commercial/Open source Tools**:
 ### Threat Checking Tools
