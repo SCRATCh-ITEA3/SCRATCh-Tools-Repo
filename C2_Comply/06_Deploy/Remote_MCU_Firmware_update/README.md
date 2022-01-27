@@ -1,4 +1,6 @@
 # <img src="../../../images/deploy.png" alt ='deploy'  width="10%" > SCRATCh - DevOps - Deploy Tools - Remote MCU Firmware update via Git Server & Trust Provisioning Services
+
+[![Available](https://img.shields.io/badge/status-Available-green)](https://github.com/SCRATCh-ITEA3/imxrt1060-fwupdate-via-git)
 [![SCRATCh - funded by BMBF](https://img.shields.io/badge/part%20of-SCRATCh-yellow)](https://scratch-itea3.eu/)
 ![SCRATCh - funded by BMBF](https://img.shields.io/badge/funded%20by-BMBF-blue)
 [![ITEA3](https://img.shields.io/badge/supported%20by-ITEA3-orange)](https://www.itea3.org)

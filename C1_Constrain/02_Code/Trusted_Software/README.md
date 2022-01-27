@@ -1,6 +1,12 @@
 # <img src="../../../images/code.png" alt ='code'  width="10%" > SCRATCh - DevOps - Code Tools - Trusted Software
 
 # Irdeto Trusted Software
+
+[![Available](https://img.shields.io/badge/status-available-green)](https://irdeto.com/trusted-software/)
+[![SCRATCh - funded by BMBF](https://img.shields.io/badge/part%20of-SCRATCh-yellow)](https://scratch-itea3.eu/)
+![SCRATCh - funded by BMBF](https://img.shields.io/badge/funded%20by-BMBF-blue)
+[![ITEA3](https://img.shields.io/badge/supported%20by-ITEA3-orange)](https://www.itea3.org)
+
 ## Introduction
 Irdeto [Trusted Software] is a code protection service that can be accessed online or via a Web API. It is used to harden applications that run on iOS and Android devices against attacks and reverse engineering. Trusted Software uses ML to identify security sensative code within the app and automatically applies code obfuscation to protect relevant sensative code. Trusted Software is based on Irdeto's industry leading software protection toolset, [Cloakware Software Protection].
 
@@ -42,10 +48,6 @@ Irdeto [Trusted Software] is a code protection service that can be accessed onli
   * Uses AI to identify security-sensitive code in Apps
 * Applies security using Cloakware® Software Protection
 * Beyond SotA: Trusted Software is the first (and currently only) obfuscation tool that makes use of machine learning to automatically apply protection to code
-
-
-
-
 
 [Trusted Software]: https://irdeto.com/trusted-software/ 
 [Cloakware Software Protection]: https://irdeto.com/cloakware-software-protection/

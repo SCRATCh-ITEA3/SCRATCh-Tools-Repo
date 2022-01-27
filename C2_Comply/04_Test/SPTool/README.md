@@ -1,5 +1,9 @@
 # <img src="../../../images/test.png" alt ='test'  width="10%" >  SCRATCh - DevOps - Test Tools - Test Prioritization Tool  
 
+[![SCRATCh - funded by BMBF](https://img.shields.io/badge/part%20of-SCRATCh-yellow)](https://scratch-itea3.eu/)
+![SCRATCh - funded by BMBF](https://img.shields.io/badge/funded%20by-BMBF-blue)
+[![ITEA3](https://img.shields.io/badge/supported%20by-ITEA3-orange)](https://www.itea3.org)
+
 ## SPTool 
 The SPTool is a library that selects and prioritize test cases, to reduce testing time, increase fault detection rate and improve the testing process efficiency while software quality level is maintained. 
 The SPtool has been divided into two layers, platform independent layer and platform dependent layer. This division allows to separate test case execution from prioritization, allowing to prioritize test cases independently from the implementation language as well as from the test case management platform.
