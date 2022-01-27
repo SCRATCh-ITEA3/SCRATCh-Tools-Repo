@@ -1,6 +1,6 @@
 # <img src="../../../images/monitor.png" alt ='monitor'  width="10%" > SCRATCh - DevOps - Monitor Tools - Anomaly Detection Toolkit
 
-[![Under Development](https://img.shields.io/badge/status-Under%development-yellow)]
+![Under Development](https://img.shields.io/badge/status-Under%20development-yellow)
 [![SCRATCh - funded by BMBF](https://img.shields.io/badge/part%20of-SCRATCh-yellow)](https://scratch-itea3.eu/)
 ![SCRATCh - funded by BMBF](https://img.shields.io/badge/funded%20by-BMBF-blue)
 [![ITEA3](https://img.shields.io/badge/supported%20by-ITEA3-orange)](https://www.itea3.org)
