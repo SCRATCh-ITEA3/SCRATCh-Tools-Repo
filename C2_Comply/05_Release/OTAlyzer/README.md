@@ -11,6 +11,8 @@
 
 ### The OTARIS traffic analyzer (OTAlyzer) is a tool to analyze large amounts of network traffic by searching for occurences of keywords, e.g. the transmission of passwords or private data. 
 
+The OTALyzer can assist in fulfilling common IoT security requirements such as monitoring telemetry data and ensuring confidentiality of sensitive/private data.
+
 ### Structure of the tool
 
 Nowadays developers rely heavily on using third-party-libraries, without knowing much about their inner workings. This imposes a risk on privacy and data confidentiality, since sometimes these libraries transmit sensible information or tracking data to remote hosts.
