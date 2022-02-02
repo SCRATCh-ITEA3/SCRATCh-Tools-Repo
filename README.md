@@ -1,5 +1,9 @@
 #  <img src="./images/devops3c.png" alt ='DevOps Cicle'  width="5%" > SCRATCh -SECURE AND AGILE CONNECTED THINGS- DevOps - Tools 
 
+[![SCRATCh - funded by BMBF](https://img.shields.io/badge/part%20of-SCRATCh-yellow)](https://scratch-itea3.eu/)
+![SCRATCh - funded by BMBF](https://img.shields.io/badge/funded%20by-BMBF-blue)
+[![ITEA3](https://img.shields.io/badge/supported%20by-ITEA3-orange)](https://www.itea3.org)
+
 <map name="3cimage-map">
     <area target="_self" alt="Constrain" title="/C1_Constrain/" href="/C1_Constrain/" coords="101,199,75,266,16,251,8,59,47,18,149,2,269,19,324,41,336,78,340,98,343,108,274,139,267,181,135,195" shape="poly">
     <area target="_self" alt="Comply" title="Comply" href="./C2_Comply" coords="99,233,241,238,296,175,358,111,408,50,446,21,536,2,639,41,597,85,462,86,402,151,356,206,317,245,291,274,231,316,103,303,59,283" shape="poly">

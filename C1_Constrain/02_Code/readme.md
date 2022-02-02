@@ -3,10 +3,10 @@
 Among the tools that comply with the SCRATCh philosophy we can find the following:
 
 ## **SCRATCh partner Tools**:	
-* OWASP Dependency Track [Quobis]
-* Trusted Software [Irdeto]
-* Cloakware Software Protection [Irdeto]
-* MCUXPresso IDE [NXP]
+* [OWASP Dependency Track Github Action](OWASP_Dependency_Track) (Quobis)
+* [Trusted Software](Trusted_Software) (Irdeto)
+* Cloakware Software Protection (Irdeto)
+* MCUXPresso IDE (NXP)
 
 ## **Commercial/Open source Tools**:
  

@@ -1,6 +1,12 @@
 # <img src="../../../images/deploy.png" alt ='deploy'  width="10%" > SCRATCh - DevOps - Deploy Tools - Keys & Credentials
 
 # Irdeto Keys & Credentials
+
+![Available](https://img.shields.io/badge/status-Available-green)
+[![SCRATCh - funded by BMBF](https://img.shields.io/badge/part%20of-SCRATCh-yellow)](https://scratch-itea3.eu/)
+![SCRATCh - funded by BMBF](https://img.shields.io/badge/funded%20by-BMBF-blue)
+[![ITEA3](https://img.shields.io/badge/supported%20by-ITEA3-orange)](https://www.itea3.org)
+
 ## Overview
 The security of an IoT device is highly dependent on the notion of a trusted unique identity and the associated root security assets, such as symmetric encryption keys, PKI certificates, and passwords. These security sensitive items are typically generated in high-trust environments, often employing hardware security modules (HSMs) for protection.
 

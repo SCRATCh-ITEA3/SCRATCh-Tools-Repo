@@ -8,14 +8,13 @@ Among the tools that comply with the SCRATCh philosophy we can find the followin
 
 ### Identity & Security Provisioning Tools
 
-* Trust Provisioning Services [NXP]
-* Keys & Credentials Service [Irdeto]
-* Key provisioning tools NXP
+* [Irdeto Keys & Credentials](Keys_and_Credentials) Service (Irdeto)
+* Key provisioning tools (NXP)
 
 ### Secure Deployment Tools
 
-* Firmware Update System [Almende, DN, AnyWi]
-* Remote MCU Firmware updates via Git Server [NXP]
+* [Firmware Update System](Firmware_Update_System) (Almende, DN, AnyWi)
+* [Remote MCU Firmware update](Remote_MCU_Firmware_update) via Git Server (NXP)
 
 
 ##  **Commercial/Open source Tools**
