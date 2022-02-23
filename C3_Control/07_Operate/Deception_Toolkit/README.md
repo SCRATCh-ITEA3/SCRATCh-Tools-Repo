@@ -1,7 +1,7 @@
 # <img src="../../../images/operate.png" alt ='operate'  width="10%" > SCRATCh - DevOps - Operate Tools - Deception Toolkit
 
-
-[![SCRATCh - funded by BMBF](https://img.shields.io/badge/part%20of-SCRATCh-yellow)](https://scratch-itea3.eu/)
+![Status Proof of Concept](https://img.shields.io/badge/status-Proof%20of%20Concept-green)
+[![Part of SCRATCh](https://img.shields.io/badge/part%20of-SCRATCh-yellow)](https://scratch-itea3.eu/)
 ![SCRATCh - funded by BMBF](https://img.shields.io/badge/funded%20by-BMBF-blue)
 [![ITEA3](https://img.shields.io/badge/supported%20by-ITEA3-orange)](https://www.itea3.org)
 
